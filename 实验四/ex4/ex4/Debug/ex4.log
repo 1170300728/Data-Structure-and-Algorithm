@@ -1,0 +1,4 @@
+﻿  ex4.cpp
+d:\ttn\数据结构与算法\实验四\ex4\ex4\ex4.cpp(9): warning C4091: “typedef ”: 没有声明变量时忽略“celltype”的左侧
+d:\ttn\数据结构与算法\实验四\ex4\ex4\ex4.cpp(124): warning C4715: “B_DeleteMin”: 不是所有的控件路径都返回值
+  ex4.vcxproj -> D:\ttn\数据结构与算法\实验四\ex4\Debug\ex4.exe
